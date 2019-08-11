@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaurav Sood</title>
-    <link>http://gauravsood.github.io/</link>
+    <link>http://ggsood.github.io/</link>
     <description>Recent content on Gaurav Sood</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://gauravsood.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ggsood.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
