@@ -1,7 +1,7 @@
 languageCode: "en-us"
 title: "GS"
 theme: "crab"
-baseurl: "https://www.gauravsood.me"
+baseurl: "https://www.gauravsood.me/"
 
 params:
   description: "Simple blog site by Gaurav Sood"
