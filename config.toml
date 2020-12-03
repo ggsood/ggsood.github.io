@@ -64,3 +64,7 @@ weight = 4
   [[params.social]]
     name = "email"
     link = "gauravsood@yahoo.com"  # no need for "mailto:" in the head
+
+# Code Block
+pygmentsCodeFences = true
+pygmentsStyle = "monokai"
