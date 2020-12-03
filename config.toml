@@ -1,4 +1,4 @@
-baseURL = "https://gauravsood.me"
+baseURL = "https://www.gauravsood.me"
 languageCode = "en-us"
 title = "Gaurav Sood"
 theme = "cactus"
@@ -34,7 +34,7 @@ weight = 4
 [params]
 
   colortheme = "light" # dark, light, white, or classic
-  rss = true # generate rss feed. default value is false
+  rss = false # generate rss feed. default value is false
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
