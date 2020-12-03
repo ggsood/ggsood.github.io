@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaurav Sood</title>
+    <link>https://gauravsood.me/</link>
+    <description>Recent content on Gaurav Sood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ggsood</copyright>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gauravsood.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ELK Stack using Docker Compose</title>
+      <link>https://gauravsood.me/posts/elasticsearch/elastic-stack-docker-compose/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gauravsood.me/posts/elasticsearch/elastic-stack-docker-compose/</guid>
+      <description>The Elastic Docker registry contains Docker images for all the products in the Elastic Stack: https://www.docker.elastic.co/.
+Run with docker compose To get the default distributions of Elasticsearch and Kibana up and running in Docker, you can use Docker Compose.
+ Create a docker-compose.yml file for the Elastic Stack.
+The following example brings up a single node cluster and Kibana so you can see how things work. This all-in-one configuration is a handy way to bring up your first dev cluster.</description>
+    </item>
+    
+    <item>
+      <title>ELK TLS</title>
+      <link>https://gauravsood.me/posts/elasticsearch/elastic-tls-docker-compose/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gauravsood.me/posts/elasticsearch/elastic-tls-docker-compose/</guid>
+      <description>TLS Section to be covered here</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://gauravsood.me/about/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gauravsood.me/about/</guid>
+      <description>Github: ggsood</description>
+    </item>
+    
+  </channel>
+</rss>
