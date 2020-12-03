@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gaurav Sood</title>
-    <link>https://gauravsood.me/tags/</link>
+    <link>https://www.gauravsood.me/tags/</link>
     <description>Recent content in Tags on Gaurav Sood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ggsood</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gauravsood.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gauravsood.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker-Compose</title>
-      <link>https://gauravsood.me/tags/docker-compose/</link>
+      <link>https://www.gauravsood.me/tags/docker-compose/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gauravsood.me/tags/docker-compose/</guid>
+      <guid>https://www.gauravsood.me/tags/docker-compose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ELK</title>
-      <link>https://gauravsood.me/tags/elk/</link>
+      <link>https://www.gauravsood.me/tags/elk/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gauravsood.me/tags/elk/</guid>
+      <guid>https://www.gauravsood.me/tags/elk/</guid>
       <description></description>
     </item>
     

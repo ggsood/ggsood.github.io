@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>docker on Gaurav Sood</title>
-    <link>https://gauravsood.me/categories/docker/</link>
+    <link>https://www.gauravsood.me/categories/docker/</link>
     <description>Recent content in docker on Gaurav Sood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ggsood</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gauravsood.me/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gauravsood.me/categories/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ELK Stack using Docker Compose</title>
-      <link>https://gauravsood.me/posts/elasticsearch/elastic-stack-docker-compose/</link>
+      <link>https://www.gauravsood.me/posts/elasticsearch/elastic-stack-docker-compose/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gauravsood.me/posts/elasticsearch/elastic-stack-docker-compose/</guid>
+      <guid>https://www.gauravsood.me/posts/elasticsearch/elastic-stack-docker-compose/</guid>
       <description>The Elastic Docker registry contains Docker images for all the products in the Elastic Stack: https://www.docker.elastic.co/.
 Run with docker compose To get the default distributions of Elasticsearch and Kibana up and running in Docker, you can use Docker Compose.
  Create a docker-compose.yml file for the Elastic Stack.
@@ -22,10 +22,10 @@ The following example brings up a single node cluster and Kibana so you can see 
     
     <item>
       <title>ELK TLS</title>
-      <link>https://gauravsood.me/posts/elasticsearch/elastic-tls-docker-compose/</link>
+      <link>https://www.gauravsood.me/posts/elasticsearch/elastic-tls-docker-compose/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gauravsood.me/posts/elasticsearch/elastic-tls-docker-compose/</guid>
+      <guid>https://www.gauravsood.me/posts/elasticsearch/elastic-tls-docker-compose/</guid>
       <description>TLS Section to be covered here</description>
     </item>
     
